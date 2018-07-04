@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="3138" started-at="2018-06-27T05:57:57Z" finished-at="2018-06-27T05:58:00Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="3138" started-at="2018-06-27T05:57:57Z" finished-at="2018-06-27T05:58:00Z">
+      <class name="JsonReading">
+        <test-method status="PASS" signature="JsonArrayToList()[pri:0, instance:JsonReading@d2cc05a]" name="JsonArrayToList" duration-ms="2270" started-at="2018-06-27T05:57:57Z" finished-at="2018-06-27T05:57:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- JsonArrayToList -->
+        <test-method status="PASS" signature="JsonPathUsage()[pri:0, instance:JsonReading@d2cc05a]" name="JsonPathUsage" duration-ms="828" started-at="2018-06-27T05:57:59Z" finished-at="2018-06-27T05:58:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- JsonPathUsage -->
+      </class> <!-- JsonReading -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
